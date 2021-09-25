@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.AssemblyInfo.cs
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\bin\Debug\net5.0\FileTreeConsoleApp.exe
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\bin\Debug\net5.0\FileTreeConsoleApp.deps.json
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\bin\Debug\net5.0\FileTreeConsoleApp.runtimeconfig.json
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\bin\Debug\net5.0\FileTreeConsoleApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\bin\Debug\net5.0\FileTreeConsoleApp.dll
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\bin\Debug\net5.0\ref\FileTreeConsoleApp.dll
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\bin\Debug\net5.0\FileTreeConsoleApp.pdb
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.dll
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\ref\FileTreeConsoleApp.dll
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.pdb
+C:\Users\user\source\repos\FileTreeConsoleApp\FileTreeConsoleApp\obj\Debug\net5.0\FileTreeConsoleApp.genruntimeconfig.cache
